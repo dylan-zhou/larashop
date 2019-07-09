@@ -1,0 +1,35 @@
+.DS_Store
+/.idea
+/nbproject
+
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+
+/vendor
+/composer.lock
+
+/.env
+/.env.dev
+
+.phpunit.result.cache
+
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+# composer require --dev barryvdh/laravel-ide-helper
+/_ide_helper.php
+/_ide_helper_models.php
+/config/ide-helper.php
+/.phpstorm.meta.php
+
+
+#composer require barryvdh/laravel-debugbar --dev
+/config/debugbar.php
+/storage/debugbar
+
+
+
