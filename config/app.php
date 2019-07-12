@@ -175,6 +175,8 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
+        // TODO
+
     ],
 
     /*
@@ -225,6 +227,10 @@ return [
         'URL' => Illuminate\Support\Facades\URL::class,
         'Validator' => Illuminate\Support\Facades\Validator::class,
         'View' => Illuminate\Support\Facades\View::class,
+
+        // TODO
+        //Dingo\Api\Facade\API
+        //Dingo\Api\Facade\Route
 
     ],
 
