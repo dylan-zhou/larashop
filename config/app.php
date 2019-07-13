@@ -232,6 +232,10 @@ return [
         //Dingo\Api\Facade\API
         //Dingo\Api\Facade\Route
 
+        // TODO jwt
+//        'JWTAuth' => Tymon\JWTAuth\Facades\JWTAuth::class,
+//        'JWTFactory' => Tymon\JWTAuth\Facades\JWTFactory::class,
+
     ],
 
 ];
